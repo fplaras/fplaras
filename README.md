@@ -6,7 +6,7 @@ I currenlty work in the public sector developing application for clinical resear
 Skills: 
 - Most Frequent
   -  Dotnetcore MVC and WebAPI
-  -  Relational Databases MSSQL, Oravle, Postgres
+  -  Relational Databases MSSQL, Oracle, PostgreSQL
   -  Azure App Service, CosmoDB, Identity
   -  Firebase Auth Service
   -  Javascript jQuery Datables.net
