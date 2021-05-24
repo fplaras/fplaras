@@ -1,9 +1,18 @@
 ### Hi there 👋, welcome to my GitHub repository
 ![width="120"](J4o.gif)
 
-Other than building applications I enjoy building Legos and collecting Funko Pops. I also dedicate time to supporting my community with developing applications for non-profits, improve the environment and help facilitate the every day life. 
+I currenlty work in the public sector developing application for clinical research purposes. I also dedicate time to supporting my community with developing applications for non-profits, improve the environment and help facilitate the every day life. Not a one framework one language developer, always seeking to learn. 
 
-Skills: ASP.Net Core - MVC/WebAPI, Relational Databases(MSSQL/Oracle), Azure App Service, Firebase, jQuery, Bootstrap; Dabbed a little with VueJS and React
+Skills: 
+- Most Frequent
+  -  Dotnetcore MVC and WebAPI
+  -  Relational Databases MSSQL, Oravle, Postgres
+  -  Azure App Service, CosmoDB, Identity
+  -  Firebase Auth Service
+  -  Javascript jQuery Datables.net
+  -  Bootstrap
+- Dabbed a little in:
+  -  VueJS React Flutter Ionic Android Python
 
 - 🌱 I’m currently learning Blazor and VueJS 
 - 👯 I’m looking to collaborate on Non-Profit, Environment and Community projects 
