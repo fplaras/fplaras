@@ -1,23 +1,6 @@
 ### Hi there 👋, welcome to my GitHub repository
 ![width="120"](J4o.gif)
 
-I currenlty work in the public sector developing application for clinical research purposes. I also dedicate time to supporting my community with developing applications for non-profits, improve the environment and help facilitate the every day life. Not a one framework one language developer, always seeking to learn. 
-
-Skills: 
-- Most Frequent
-  -  Dotnetcore MVC and WebAPI
-  -  Relational Databases MSSQL, Oracle, PostgreSQL
-  -  Azure App Service, CosmoDB, Identity
-  -  Firebase Auth Service
-  -  Javascript jQuery Datables.net
-  -  Bootstrap
-- Dabbed a little in:
-  -  VueJS React Flutter Ionic Android Python
-
-- 🌱 I’m currently learning Blazor and VueJS 
-- 👯 I’m looking to collaborate on Non-Profit, Environment and Community projects 
-- ⚡ Fun fact: Disney Class of 2007 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg#thumb' alt='github' height='40'>](https://github.com/fplaras)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/franciscoperezlaras//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/frankiebp)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://codefortampabay.org/)  
 
