@@ -1,6 +1,8 @@
 ### Hi there 👋, welcome to my GitHub repository
 ![width="120"](J4o.gif)
 
+### I like to learn, collaborate and build. 
+### Software Developer, problem solver. 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg#thumb' alt='github' height='40'>](https://github.com/fplaras)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/franciscoperezlaras//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/frankiebp)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://codefortampabay.org/)  
 <!--
